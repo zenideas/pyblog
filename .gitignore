@@ -2,3 +2,4 @@ __pycache__
 flskpy2/*
 tmp/*
 db/*
+*.pyc
